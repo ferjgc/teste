@@ -2,6 +2,6 @@
 
 - Iniciar:
 
-''' bash
+```bash
 $ git init
-'''
+```
